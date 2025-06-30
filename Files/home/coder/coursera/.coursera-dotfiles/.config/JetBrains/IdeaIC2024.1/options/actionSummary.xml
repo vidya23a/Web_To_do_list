@@ -1,0 +1,70 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="16" l="1747980201446" />
+    </e>
+    <e n="$Undo">
+      <i c="4" l="1747897311163" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="134" l="1747980373176" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="44" l="1747980377676" />
+    </e>
+    <e n="EditorCopy">
+      <i c="16" l="1747980202567" />
+    </e>
+    <e n="EditorDown">
+      <i c="8" l="1747980370071" />
+    </e>
+    <e n="EditorEnter">
+      <i c="20" l="1747979737439" />
+    </e>
+    <e n="EditorLeft">
+      <i c="5" l="1747979753638" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1747978322733" />
+    </e>
+    <e n="EditorRight">
+      <i c="20" l="1747980322598" />
+    </e>
+    <e n="EditorTab">
+      <i c="27" l="1747980366727" />
+    </e>
+    <e n="RenameElement">
+      <i c="1" l="1732720229659" />
+    </e>
+    <e n="SaveAll">
+      <i c="12" l="1747980442426" />
+    </e>
+    <e n="ShowProjectStructureSettings">
+      <i c="1" l="1732720131201" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1732720795185" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1732720034183" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
+      <i c="1" l="1732720746348" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction$2">
+      <i c="1" l="1732720754395" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="3" l="1732720776754" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="4" l="1732720773195" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1732720737593" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1732720635944" />
+    </e>
+  </component>
+</application>

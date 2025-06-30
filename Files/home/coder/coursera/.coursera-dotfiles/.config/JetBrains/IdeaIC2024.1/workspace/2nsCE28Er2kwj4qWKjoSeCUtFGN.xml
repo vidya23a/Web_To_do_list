@@ -1,0 +1,558 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="TodoRails" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="a6h67yzvlq7a" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/todo/todorails/controller/TaskController.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="127">
+              <caret line="50" column="59" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/changepasswd.html">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="176">
+              <caret line="59" column="71" selection-start-line="59" selection-start-column="71" selection-end-line="59" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/changepasswd.js">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="110">
+              <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/todo/todorails/controller/ProfileController.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-22">
+              <caret line="71" column="34" lean-forward="true" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/dashboard.html">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="n#style#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#form#1;n#div#1;n#div#1;n#div#1;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#form#1;n#div#1;n#div#1;n#div#1;n#div#1;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#2;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#form#1;n#div#1;n#div#1;n#div#1;n#div#2;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/todo/todorails/service/TaskService.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-1427">
+              <caret line="107" column="36" selection-start-line="107" selection-start-column="36" selection-end-line="107" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/viewtask.html">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="264">
+              <caret line="60" column="89" selection-start-line="60" selection-start-column="89" selection-end-line="60" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/viewtask.css">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="209">
+              <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/todo/todorails/repository/TaskRepository.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="171">
+              <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/register.js">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1430">
+              <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 22,
+      "lastUsed": 1747980178387
+    },
+    "XML": {
+      "usageCount": 1,
+      "lastUsed": 1732720265091
+    },
+    "Properties": {
+      "usageCount": 1,
+      "lastUsed": 1732720324411
+    },
+    "CSS": {
+      "usageCount": 8,
+      "lastUsed": 1747979549395
+    },
+    "HTML": {
+      "usageCount": 8,
+      "lastUsed": 1747979879560
+    },
+    "JavaScript": {
+      "usageCount": 3,
+      "lastUsed": 1747980015886
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+      <option value="$PROJECT_DIR$/src/main/java/org/todo/todorails/config/SecurityConfig.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/static/css/login.css" />
+      <option value="$PROJECT_DIR$/src/main/resources/templates/register.html" />
+      <option value="$PROJECT_DIR$/src/main/resources/static/css/register.css" />
+      <option value="$PROJECT_DIR$/src/main/resources/static/js/register.js" />
+      <option value="$PROJECT_DIR$/src/main/java/org/todo/todorails/repository/UserRepository.java" />
+      <option value="$PROJECT_DIR$/src/main/java/org/todo/todorails/service/UserService.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/templates/addtask.html" />
+      <option value="$PROJECT_DIR$/src/main/resources/static/css/addtask.css" />
+      <option value="$PROJECT_DIR$/src/main/resources/templates/dashboard.html" />
+      <option value="$PROJECT_DIR$/src/main/java/org/todo/todorails/controller/TaskController.java" />
+      <option value="$PROJECT_DIR$/src/main/java/org/todo/todorails/service/TaskService.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/templates/viewtask.html" />
+      <option value="$PROJECT_DIR$/src/main/resources/static/css/viewtask.css" />
+      <option value="$PROJECT_DIR$/src/main/java/org/todo/todorails/repository/TaskRepository.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/templates/changepasswd.html" />
+      <option value="$PROJECT_DIR$/src/main/resources/static/js/changepasswd.js" />
+      <option value="$PROJECT_DIR$/src/main/java/org/todo/todorails/controller/ProfileController.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="HTML">
+      <summary usageCount="8" lastUsage="1747979879560" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="22" lastUsage="1747980178387" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="1" lastUsage="1732720324411" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1732720265091" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TodoRails" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TodoRails" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/.mvn}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TodoRails" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/.mvn}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/.mvn/wrapper}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TodoRails" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TodoRails" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TodoRails" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TodoRails" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main/java/org/todo/todorails}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TodoRails" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main/java/org/todo/todorails}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main/java/org/todo/todorails/controller}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TodoRails" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main/java/org/todo/todorails}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main/java/org/todo/todorails/repository}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TodoRails" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TodoRails" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main/resources/static}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TodoRails" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main/resources/static}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main/resources/static/js}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TodoRails" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/main/resources/templates}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TodoRails" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TodoRails" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/test/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TodoRails" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/TodoApp_Starter/TodoRails/src/test/java/org/todo/todorails}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.TodoRailsApplication" />
+      <element setting="JUnit.TodoRailsTests" />
+    </history>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TodoRailsTests - 2024.11.27 at 15h 18m 31s.xml">
+      <configuration name="TodoRailsTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.23286876" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.33021224" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="bottom" id="Build" order="9" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Coverage" order="1" side_tool="true" />
+      <window_info anchor="right" id="AIAssistant" order="2" />
+      <window_info anchor="right" id="Notifications" order="3" weight="0.25" />
+      <unified_weights bottom="0.33021224" left="0.23286876" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="732" y="322" width="344" height="301" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1732720245294">
+      <screen x="0" y="31" width="1811" height="875" />
+    </state>
+    <state x="732" y="322" width="344" height="301" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.31.1811.875@0.31.1811.875" timestamp="1732720245294" />
+    <state width="1348" height="236" key="GridCell.Tab.0.bottom" timestamp="1732720804390">
+      <screen x="0" y="31" width="1811" height="875" />
+    </state>
+    <state width="1348" height="236" key="GridCell.Tab.0.bottom/0.31.1811.875@0.31.1811.875" timestamp="1732720804390" />
+    <state width="1348" height="236" key="GridCell.Tab.0.center" timestamp="1732720804389">
+      <screen x="0" y="31" width="1811" height="875" />
+    </state>
+    <state width="1348" height="236" key="GridCell.Tab.0.center/0.31.1811.875@0.31.1811.875" timestamp="1732720804389" />
+    <state width="1348" height="236" key="GridCell.Tab.0.left" timestamp="1732720804389">
+      <screen x="0" y="31" width="1811" height="875" />
+    </state>
+    <state width="1348" height="236" key="GridCell.Tab.0.left/0.31.1811.875@0.31.1811.875" timestamp="1732720804389" />
+    <state width="1348" height="236" key="GridCell.Tab.0.right" timestamp="1732720804389">
+      <screen x="0" y="31" width="1811" height="875" />
+    </state>
+    <state width="1348" height="236" key="GridCell.Tab.0.right/0.31.1811.875@0.31.1811.875" timestamp="1732720804389" />
+    <state x="388" y="46" width="1034" height="849" key="SettingsEditor" timestamp="1732720150498">
+      <screen x="0" y="31" width="1811" height="875" />
+    </state>
+    <state x="388" y="46" width="1034" height="849" key="SettingsEditor/0.31.1811.875@0.31.1811.875" timestamp="1732720150498" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/todo/todorails/TodoRailsTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/todo/todorails/TodoRailsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/todo/todorails/config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="35" column="55" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/todo/todorails/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/todo/todorails/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/addtask.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="68" column="109" selection-start-line="68" selection-start-column="109" selection-end-line="68" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/addtask.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2134">
+          <caret line="97" column="34" selection-start-line="97" selection-start-column="34" selection-end-line="97" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/register.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2574">
+          <caret line="117" column="4" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1430">
+          <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/viewtask.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="60" column="89" selection-start-line="60" selection-start-column="89" selection-end-line="60" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/viewtask.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/todo/todorails/repository/TaskRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/todo/todorails/service/TaskService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1427">
+          <caret line="107" column="36" selection-start-line="107" selection-start-column="36" selection-end-line="107" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/todo/todorails/controller/TaskController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="50" column="59" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/changepasswd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="59" column="71" selection-start-line="59" selection-start-column="71" selection-end-line="59" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/changepasswd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/todo/todorails/controller/ProfileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="71" column="34" lean-forward="true" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="n#style#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#form#1;n#div#1;n#div#1;n#div#1;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#form#1;n#div#1;n#div#1;n#div#1;n#div#1;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#2;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#form#1;n#div#1;n#div#1;n#div#1;n#div#2;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI" />
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>
